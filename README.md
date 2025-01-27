@@ -28,3 +28,7 @@ A sleek and user-friendly web application for browsing and exploring movies. The
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/movies-web.git
+
+
+   Output :
+    ![Dashboard](./movie-web.png)
