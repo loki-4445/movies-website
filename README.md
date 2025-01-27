@@ -30,5 +30,6 @@ A sleek and user-friendly web application for browsing and exploring movies. The
    git clone https://github.com/your-username/movies-web.git
 
 
-## Output :
-    ![Dashboard](./movie-web.png)
+1. **Output**
+   
+   ![Dashboard](./movie-web.png)
